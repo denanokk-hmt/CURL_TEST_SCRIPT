@@ -1,7 +1,7 @@
 
 
 #Watson credential
-#CONFIG/watson
+/CONFIG/
 
 /wnc/
 /wnc
@@ -13,4 +13,4 @@
 /QA_LOG/
 
 #DATA
-#/TEST_DATA/
+/TEST_DATA/

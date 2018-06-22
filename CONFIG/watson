@@ -1,5 +1,5 @@
 Workspace Info,Scenario-lab/scenario-test
 Environment,development of scenario
-WORKSPACE_ID,aaa
-CONVERSATION_USERNAME,bbb
-CONVERSATION_PASSWORD,vvv
+WORKSPACE_ID,
+CONVERSATION_USERNAME,
+CONVERSATION_PASSWORD,

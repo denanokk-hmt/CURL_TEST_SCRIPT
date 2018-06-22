@@ -1,0 +1,16 @@
+
+
+#Watson credential
+#CONFIG/watson
+
+/wnc/
+/wnc
+
+#Backupfiles
+*.bk
+
+#RESULT
+/QA_LOG/
+
+#DATA
+#/TEST_DATA/
